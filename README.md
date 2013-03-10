@@ -4,7 +4,7 @@ It enchances otherwise plain text files with a few syntax extensions for:
 
 * paragraphs
 * inline code snippets
-* definitions (like in <dl> element)
+* definitions (like in &lt;dl&gt; element)
 * comments/asides (originally intended as collapsible paragraphs)
 * source code highlighting
 * footnotes
