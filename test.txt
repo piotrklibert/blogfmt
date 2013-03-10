@@ -1,0 +1,12 @@
+## The demo
+
+--para. I'd like to tell you something about Python's `re.compile()`[[ Probably nothing that interesting... --przyp. ]]
+
+--def. re module - a great good of the universe
+
+--kod=Python
+    print "omg"
+--/kod
+
+--para. The end.
+

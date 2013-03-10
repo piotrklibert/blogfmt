@@ -72,7 +72,7 @@ def highlight_code(match):
         get_lexer_by_name(lang.lower()),
         HtmlFormatter(linenos="table")
     )
-    return "<div class='code'>%s</div>\n" % h
+    return "<div class='code'>%s</div>" % h
 
 
 
